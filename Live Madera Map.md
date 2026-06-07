@@ -1,2 +1,2 @@
-# Madera-NTD-Project
-Analyzes 10 years of City of Madera transit data using a Python ETL pipeline across 70+ NTD Excel files. Includes QGIS geospatial visualizations using GTFS and 2020 census data, an interactive Excel dashboard, and findings on transit efficiency, ridership trends, and HSR readiness ahead of California's SB-79.
+# Madera-NTD-Project-Map-Link
+https://rcgis.nextgis.com/resource/16/display??angle=0&zoom=12&styles=21,14&linkMainMap=true&events=false&panel=none&controls=&panels=&base=osm-mapnik&lon=-120.0323&lat=36.9600
