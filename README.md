@@ -17,7 +17,7 @@ Analyzes 10 years of City of Madera transit data using a Python ETL pipeline acr
 
 ## Repository Contents
 
-**Slide Deck** — A self-contained PowerPoint presentation summarizing the project's visualizations and key findings. Start here if you want the TLDR. A Public Google Sheets Link is included in the folder of ease of access.
+**Slide Deck** — A self-contained PowerPoint presentation summarizing the project's visualizations and key findings. Start here if you want the TLDR. A Public Google Sheets link is included in the folder for ease of access.
 
 **Live Madera Map.md** — Contains a link to an online hosted version of the QGIS route and population map. No software required to view it. Mobile friendly.
 
