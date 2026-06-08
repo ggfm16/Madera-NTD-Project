@@ -17,9 +17,9 @@ Analyzes 10 years of City of Madera transit data using a Python ETL pipeline acr
 
 ## Repository Contents
 
-**Slide Deck** — A self-contained PowerPoint presentation summarizing the project's visualizations and key findings. Start here if you want the TLDR. Download for full features.
+**Slide Deck** — A self-contained PowerPoint presentation summarizing the project's visualizations and key findings. Start here if you want the TLDR. A Public Google Sheets Link is included in the folder of ease of access.
 
-**Live Madera Map.md** — Contains a link to an online hosted version of the QGIS route and population map. No software required to view it.
+**Live Madera Map.md** — Contains a link to an online hosted version of the QGIS route and population map. No software required to view it. Mobile friendly.
 
 **Madera NTD Project Methodology.md** — The full methodology document covering the ETL pipeline, QGIS visualization design, Excel dashboard architecture, and key findings.
 
@@ -27,6 +27,6 @@ Analyzes 10 years of City of Madera transit data using a Python ETL pipeline acr
 
 **Python ETL** — Contains the ETL pipeline notebook, and the CSV output, refer to the methodology file for details on running yourself.
 
-**Project Excel Sheet** — The interactive Excel dashboard built from the CSV output. Download and open in Excel to access the full slicer and conditional formatting functionality — these features do not render in browser preview.
+**Project Excel Sheet** — The interactive Excel dashboard built from the CSV output. Download and open in Excel to access the full slicer and conditional formatting functionality — these features do not render in browser preview. Incompatible with Google Sheets.
 
 **QGIS Project File** — The QGIS project file containing all map layers, styling, and labeling configuration. Requires QGIS to open.
