@@ -27,6 +27,6 @@ Analyzes 10 years of City of Madera transit data using a Python ETL pipeline acr
 
 **Python ETL** — Contains the ETL pipeline notebook, and the CSV output, refer to the methodology file for details on running yourself.
 
-**Project Excel Sheet** — The interactive Excel dashboard built from the CSV output. Download and open in Excel to access the full slicer and conditional formatting functionality — these features do not render in browser preview. Incompatible with Google Sheets.
+**Project Excel Sheet** — The interactive Excel dashboard built from the CSV output. Download and open in Excel to access the full slicer and conditional formatting functionality — A link for browser access via OneDrive will be included in this folder. Incompatible with Google Sheets.
 
 **QGIS Project File** — The QGIS project file containing all map layers, styling, and labeling configuration. Requires QGIS to open.
