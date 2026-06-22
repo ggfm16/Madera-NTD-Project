@@ -48,4 +48,4 @@ The deck closes with a conclusion slide covering HSR feeder readiness, the AB-20
 
 ## Conclusion and Key Findings
 The data revealed a system under significant financial pressure. Operating expenses for both Fixed Route and Demand Response have risen steadily since 2014 while ridership has not recovered to pre-COVID levels (though it is on track). Ridership currently sits at half of 2014 ridership as of 2024's reporting. 
-I speculate that the recovering ridership base and the prospect of enhanced inter-city transit offer a positive outlook on the state of Maderas transit system. Full details of the findings and recommendations are covered in the presentation deck.
+I speculate that the recovering ridership base and the prospect of enhanced inter-city transit offer a positive outlook on the state of Madera's transit system. Full details of the findings and recommendations are covered in the presentation deck.
